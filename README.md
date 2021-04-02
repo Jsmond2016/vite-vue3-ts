@@ -39,4 +39,7 @@ Run `Volar: Switch TS Plugin on/off` from VSCode command palette.
 - [Vue3全家桶+Element Plus+Vite+TypeScript+Eslint配置最佳实践](https://zhuanlan.zhihu.com/p/348959109)
 - [备战2021：vite工程化实践，建议收藏](https://juejin.cn/post/6910014283707318279)
 - [vite2-in-action](https://github.com/57code/vite2-in-action)
+- [B站视频-Vite工作原理和手写实现「基本完结」](https://www.bilibili.com/video/BV1dh411S7Vz) 
+- [B站视频-Vite2 + Vue3项目最佳实践「持续更新中」](https://www.bilibili.com/video/BV1vX4y1K7bQ?p=14)
+- [B站视频-Vite2插件开发指南「持续更新中」](https://www.bilibili.com/video/BV1jb4y1R7UV)
 
